@@ -15,7 +15,6 @@ public class Day1A1 {
 
         System.out.print(n);
     }
-
     public static void main (String[] args)
     {
         printCollatz(5);
