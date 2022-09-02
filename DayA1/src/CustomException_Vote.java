@@ -13,7 +13,7 @@ public class CustomException_Vote {
     //main method
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        System.out.println(" enter nominee age");
+        System.out.println(" enter nominee age: ");
         int age = sc.nextInt();
         check(age);
     }
